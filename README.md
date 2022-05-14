@@ -16,12 +16,3 @@
    <img align="right" alt="Jovs-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/103960478/168410128-8539e9d6-7eaa-450a-9ec6-e3efa378a562.gif">
 </div>
   
-  ##
- 
-<div> 
- <a href="https://discordapp.com/users/922224900662521907" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:giovana.guedes@aluno.ifsp.edu.br.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
