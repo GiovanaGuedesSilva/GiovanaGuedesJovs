@@ -1,5 +1,6 @@
+Just a student
 
-### Hi there 👋
+#
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
