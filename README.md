@@ -13,7 +13,7 @@
   <img align="center" alt="Jovs-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jovs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jovs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="right" alt="Jovs-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/@me/934933702482485249/974882399735402536/hi.gif">
+   <img align="right" alt="Jovs-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/@me/974884180217446470/974884337038270474/hi.gif">
 </div>
   
   ##
