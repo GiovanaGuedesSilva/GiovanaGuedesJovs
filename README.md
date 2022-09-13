@@ -8,12 +8,13 @@
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jovs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jovs-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Jovs-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jovs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jovs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="right" alt="Jovs-pic" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/103960478/168410128-8539e9d6-7eaa-450a-9ec6-e3efa378a562.gif">
+     <img align="center" alt="Jovs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+     <img align="center" alt="Jovs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img align="center" alt="Jovs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+     <img align="center" alt="Jovs-Java" height="45" width="45" src="https://github.com/giovannalauraa/giovannalauraa/blob/87bc48f4e28d6c6495810f7077bac0b11234892c/javaimg.png">
+    <img align="center" alt="Jovs-php" height="45" width="45" src="https://github.com/giovannalauraa/giovannalauraa/blob/16fc8d165152b7e2a78756675f5da4139f839a5c/php-img-2.png">
+     <img align="center" alt="Jovs-vue" height="40" width="40" src="https://github.com/giovannalauraa/giovannalauraa/blob/a2d7eeae84ecef2b19d14c397e3fdaa150b7867b/vue-2-removebg-preview.png">
+     <img align="center" alt="Jovs-spring-boot" height="50" width="50" src="https://github.com/giovannalauraa/giovannalauraa/blob/c3010900786f4e0fe32bd6978da1a0b823185b6c/spring-boot-removebg-preview.png">
 </div>
   
 ##
