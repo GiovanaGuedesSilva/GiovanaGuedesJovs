@@ -15,13 +15,14 @@
     <img align="center" alt="Jovs-php" height="45" width="45" src="https://github.com/giovannalauraa/giovannalauraa/blob/16fc8d165152b7e2a78756675f5da4139f839a5c/php-img-2.png">
      <img align="center" alt="Jovs-vue" height="40" width="40" src="https://github.com/giovannalauraa/giovannalauraa/blob/a2d7eeae84ecef2b19d14c397e3fdaa150b7867b/vue-2-removebg-preview.png">
      <img align="center" alt="Jovs-spring-boot" height="50" width="50" src="https://github.com/giovannalauraa/giovannalauraa/blob/c3010900786f4e0fe32bd6978da1a0b823185b6c/spring-boot-removebg-preview.png">
-     <img align="right" alt="Jovs-pic" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/103960478/168410128-8539e9d6-7eaa-450a-9ec6-e3efa378a562.gif">
+
 </div>
-  
+
 ##
   
 <div>
   <br>
  <a href="https://discord.com/users/922224900662521907" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:giovana.guedes@aluno.ifsp.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="[https://www.linkedin.com/in/alinne-gomes-de-souza-6a6089200](https://www.linkedin.com/in/giovana-guedes-832ba5255/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
